@@ -78,7 +78,6 @@ Result of processing  the University dataset with OpenRefine
 
 Original university dataset
 
-> **Note:** The **Publish now** button is disabled if your file has not been published yet.
 
 ## [wikidataset cleaned with openrefine.xls](https://github.com/chizzymara/thesis/blob/main/wikidataset%20cleaned%20with%20openrefine.xls "wikidataset cleaned with openrefine.xls")
 
